@@ -12,7 +12,8 @@ client_scripts {
     "src/menu/panels/*.lua",
     "src/menu/windows/*.lua",
 
-    "client/*.lua",
+    "client/cl_superettelua",
+    "client/client_exercice"
 }
 
 server_scripts {
